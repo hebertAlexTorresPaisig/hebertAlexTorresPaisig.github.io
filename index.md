@@ -1,8 +1,16 @@
 ---
 layout: default
 ---
+<p align="right">
+<img src="unc.jpg" width="10%" height="100%">
+</p>
+<center><span style="font-size: 40px; color: #000080;"><b>RELACIONES GRANULOMÉTRICAS Y VOLUMÉTRICAS</b></span></center>
 
-# **RELACIONES GRANULOMÉTRICAS Y VOLUMÉTRICAS**
+<center><span style="font-size: 10px;"><b>Hecho por: Hebert Alex Torres Paisig</b></span></center>
+<center><span style="font-size: 10px;"><b>Curso: Mecanica de Suelos I</b></span></center>
+<center><span style="font-size: 10px;"><b>Universidad Nacional de Cajamarca</b></span></center>
+<center><span style="font-size: 10px;"><b>Fecha: 24/11/2023</b></span></center>
+
 
 ## I.	INTRODUCCION
 
@@ -86,6 +94,13 @@ Collantes. D (2020) en su investigación “RELACIONES GRAVIMÉTRICAS Y VOLUMÉT
 
 Interpretación gráfica, representando pesos y volúmenes mediante el programa “AutoCAD”:
 
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="CARA.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Hebert Torres | Update: 24/11/23 | AUTOCAD
+  </div>
+</div>
+
 ![HOYO](MUESTRAHOYO.png)
 
 **FIGURA N°1**. Pesos y volúmenes de una muestra parcialmente saturada. en la muestra de hoyo
@@ -110,6 +125,13 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 | Porosidad n| 44.77 |
 
 Interpretación gráfica, representando pesos y volúmenes mediante el programa “AutoCAD”:
+
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="CARA.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
+    <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Hebert Torres | Update: 24/11/23 | AUTOCAD
+  </div>
+</div>
 
 ![CILINDRO](MUESTRACILINDRO.png)
 
@@ -139,111 +161,13 @@ Ruda et al. (2016) “RELACIONES GRAVIMETRICAS Y VOLUMETRICAS”. Universidad Na
 
 Collantes. D (2020) “RELACIONES GRAVIMÉTRICAS Y VOLUMÉTRICAS DEL SUELO”. Universidad Nacional de Cajamarca. Cajamarca – Perú.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-| Título de la columna |
-|----------------------|
-| Contenido de la fila |
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](MUESTRAHOYO.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<a href="https://www.linkedin.com/in/luis-maldonado-de-la-torre/?originalSubdomain=pe">
+    <img src="luis.jpg" width="50">
+</a> ING. Luis Maldonado
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<a href="https://web.facebook.com/unc.edu.pe/photos/a.371000436305113/7747380795333670/">
+    <img src="llique.png" width="50">
+</a> Dra. Rosa Llique Mondragon
