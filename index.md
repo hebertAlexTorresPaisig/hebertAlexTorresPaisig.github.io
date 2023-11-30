@@ -20,7 +20,7 @@ Las relaciones granulométricas y volumétricas son parámetros esenciales en el
 ### 2.1.	OBJETIVOS GENERALES 
 * Establecer las relaciones gravimétricas y volumétricas
 ### 2.2.	OBJETIVOS ESPECIFICOS
-*	Determinar la densidad natural, pesos específicos y contenido de humedad de las muestras usadas.
+* Determinar la densidad natural, pesos específicos y contenido de humedad de las muestras usadas.
 * Calcular la relación de vacíos, grado de saturación y porosidad. 
 * Conocer los procedimientos antes de la práctica las relaciones gravimétricas y volumétricas.
 
@@ -75,7 +75,7 @@ Collantes. D (2020) en su investigación “RELACIONES GRAVIMÉTRICAS Y VOLUMÉT
 ## V.	RESULTADOS
 **Muestra N°1, en Muestra del Hoyo**
 
-**Tabla N°4**. _Pesos y volúmenes de una muestra parcialmente saturada, en la muestra de hoyo_
+**Tabla N°4**._Pesos y volúmenes de una muestra parcialmente saturada, en la muestra de hoyo_
 
 | Descripción | Valor |
 |------------------------|------------------------|
@@ -104,24 +104,23 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 ![HOYO](MUESTRAHOYO.png)
 
 
-**FIGURA N°1**. Pesos y volúmenes de una muestra parcialmente saturada. en la muestra de hoyo
-
+**FIGURA N°1**.Pesos y volúmenes de una muestra parcialmente saturada. en la muestra de hoyo
 
 **Muestra N°2, en Muestra del Cilindro**
 
+**Tabla N°5**._Pesos y volúmenes de una muestra parcialmente saturada de la muestra del cilindro_
 
-**Tabla N°5**. _Pesos y volúmenes de una muestra parcialmente saturada de la muestra del cilindro_
 
 | Descripción | Valor |
 |------------------------|------------------------|
 | Peso de la fase sólida |156.8 |
-| Peso de la fase líquida |  30|
-| Peso de la fase gaseosa | 0 |
-| Peso total de la muestra húmeda | 186.8 |
-| Volumen de la fase solida | 65.88 |
-| Volumen de la fase líquida | 30 |
+| Peso de la fase líquida |30|
+| Peso de la fase gaseosa |0 |
+| Peso total de la muestra húmeda |186.8 |
+| Volumen de la fase solida |65.88 |
+| Volumen de la fase líquida |30 |
 | Volumen de la fase gaseosa| 23.4 |
-| Volumen total de la muestra húmeda | 119.28 |
+| Volumen total de la muestra húmeda |119.28 |
 | Volumen de vacíos | 53.4 |
 | Relación de vacíos| 81.06 |
 | Grado de saturación | 56.18 |
@@ -153,22 +152,19 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 
 ## VII.	CONCLUSIONES
 
-* Crespo, C (2004). “Mecánica de Suelos y Cimentaciones (5a. Ed.)”. México: Limusa
+* Crespo, C (2004). “Mecánica de Suelos y Cimentaciones (5a. Ed.)”. México: Limus
 
 * Duque, G y Escobar, C (2002). “Mecánica de los Suelos”. Universidad Nacional de Colombia (Sede Manizales). Colombia.
 
 * Morales. J (2019) “INFLUENCIA DEL GRADO DE SATURACIÓN EN LA CAPACIDAD DE CARGA ÚLTIMA DE UNA ARCILLA DE ALTA PLASTICIDAD CON FINES DE CIMENTACIÓN PARA VIVIENDAS FAMILIARES EN LA ZONA DEL DESVIÓ CHEJOÑA DE LA CIUDAD DE PUNO”. Universidad Andina “Néstor Cáceres Velásquez”. Juliaca – Perú. 
 
-
 * Rico, A Del Castillo, H (1983). “La Ingeniería de Suelos”. México: Limusa.
-
 
 * Ruda et al. (2016) “RELACIONES GRAVIMETRICAS Y VOLUMETRICAS”. Universidad Nacional de Pamplona – Colombia.
 
-
 * Collantes. D (2020) “RELACIONES GRAVIMÉTRICAS Y VOLUMÉTRICAS DEL SUELO”. Universidad Nacional de Cajamarca. Cajamarca – Perú.
 
-### VIII. AGRADECIMIENTO
+## VIII. AGRADECIMIENTO
 
 
 <a href="https://www.linkedin.com/in/luis-maldonado-de-la-torre/?originalSubdomain=pe">
