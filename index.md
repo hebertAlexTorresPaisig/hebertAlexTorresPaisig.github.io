@@ -149,19 +149,19 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 
 ## VI.	CONCLUSIONES
 
-Crespo, C (2004). “Mecánica de Suelos y Cimentaciones (5a. Ed.)”. México: Limusa
+* Crespo, C (2004). “Mecánica de Suelos y Cimentaciones (5a. Ed.)”. México: Limusa
 
-Duque, G y Escobar, C (2002). “Mecánica de los Suelos”. Universidad Nacional de Colombia (Sede Manizales). Colombia.
+* Duque, G y Escobar, C (2002). “Mecánica de los Suelos”. Universidad Nacional de Colombia (Sede Manizales). Colombia.
 
-Morales. J (2019) “INFLUENCIA DEL GRADO DE SATURACIÓN EN LA CAPACIDAD DE CARGA ÚLTIMA DE UNA ARCILLA DE ALTA PLASTICIDAD CON FINES DE CIMENTACIÓN PARA VIVIENDAS FAMILIARES EN LA ZONA DEL DESVIÓ CHEJOÑA DE LA CIUDAD DE PUNO”. Universidad Andina “Néstor Cáceres Velásquez”. Juliaca – Perú. 
+* Morales. J (2019) “INFLUENCIA DEL GRADO DE SATURACIÓN EN LA CAPACIDAD DE CARGA ÚLTIMA DE UNA ARCILLA DE ALTA PLASTICIDAD CON FINES DE CIMENTACIÓN PARA VIVIENDAS FAMILIARES EN LA ZONA DEL DESVIÓ CHEJOÑA DE LA CIUDAD DE PUNO”. Universidad Andina “Néstor Cáceres Velásquez”. Juliaca – Perú. 
 
-Rico, A Del Castillo, H (1983). “La Ingeniería de Suelos”. México: Limusa.
+* Rico, A Del Castillo, H (1983). “La Ingeniería de Suelos”. México: Limusa.
 
-Ruda et al. (2016) “RELACIONES GRAVIMETRICAS Y VOLUMETRICAS”. Universidad Nacional de Pamplona – Colombia.
+* Ruda et al. (2016) “RELACIONES GRAVIMETRICAS Y VOLUMETRICAS”. Universidad Nacional de Pamplona – Colombia.
 
-Collantes. D (2020) “RELACIONES GRAVIMÉTRICAS Y VOLUMÉTRICAS DEL SUELO”. Universidad Nacional de Cajamarca. Cajamarca – Perú.
+* Collantes. D (2020) “RELACIONES GRAVIMÉTRICAS Y VOLUMÉTRICAS DEL SUELO”. Universidad Nacional de Cajamarca. Cajamarca – Perú.
 
-
+### AGRADECIMIENTO
 
 
 <a href="https://www.linkedin.com/in/luis-maldonado-de-la-torre/?originalSubdomain=pe">
