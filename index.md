@@ -62,7 +62,7 @@ Collantes. D (2020) en su investigación “RELACIONES GRAVIMÉTRICAS Y VOLUMÉT
 | Norma NTP 339.143 - 1999|
 | Norma MTC E 177 - 2000 |
 
-### 4.3. 3.3.	ENSAYO DE PESO ESPECÍFICO DE SÓLIDOS (gr)
+### 4.3.	ENSAYO DE PESO ESPECÍFICO DE SÓLIDOS (gr)
 **TABLA N°3**. _Ensayo de peso específico de sólidos (gr)_
 
 | ENSAYO DE PESO ESPECÍFICO DE SÓLIDOS (gr) |
@@ -94,6 +94,7 @@ Collantes. D (2020) en su investigación “RELACIONES GRAVIMÉTRICAS Y VOLUMÉT
 
 Interpretación gráfica, representando pesos y volúmenes mediante el programa “AutoCAD”:
 
+
 <div style="text-align: center;">
   <div style="display: inline-block;">
     <img src="CARA.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
@@ -101,11 +102,15 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
   </div>
 </div>
 
+
 ![HOYO](MUESTRAHOYO.png)
+
 
 **FIGURA N°1**. Pesos y volúmenes de una muestra parcialmente saturada. en la muestra de hoyo
 
+
 **Muestra N°2, en Muestra del Cilindro**
+
 
 **Tabla N°5**. _Pesos y volúmenes de una muestra parcialmente saturada de la muestra del cilindro_
 
@@ -133,7 +138,9 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
   </div>
 </div>
 
+
 ![CILINDRO](MUESTRACILINDRO.png)
+
 
 **FIGURA N°2**. _Pesos y volúmenes de una muestra parcialmente saturada de la muestra del cilindro_
 
@@ -147,7 +154,7 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 
 * En la muestra del cilindro presenta, 44.58% de porosidad; así como la muestra del hoyo, de 37.54%, por lo que la zona donde realizamos nuestra calicata existirá poco contenida de agua y clara veracidad sería el valor del contenido de humedad determinado.
 
-## VI.	CONCLUSIONES
+## VII.	CONCLUSIONES
 
 * Crespo, C (2004). “Mecánica de Suelos y Cimentaciones (5a. Ed.)”. México: Limusa
 
@@ -155,13 +162,16 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
 
 * Morales. J (2019) “INFLUENCIA DEL GRADO DE SATURACIÓN EN LA CAPACIDAD DE CARGA ÚLTIMA DE UNA ARCILLA DE ALTA PLASTICIDAD CON FINES DE CIMENTACIÓN PARA VIVIENDAS FAMILIARES EN LA ZONA DEL DESVIÓ CHEJOÑA DE LA CIUDAD DE PUNO”. Universidad Andina “Néstor Cáceres Velásquez”. Juliaca – Perú. 
 
+
 * Rico, A Del Castillo, H (1983). “La Ingeniería de Suelos”. México: Limusa.
+
 
 * Ruda et al. (2016) “RELACIONES GRAVIMETRICAS Y VOLUMETRICAS”. Universidad Nacional de Pamplona – Colombia.
 
+
 * Collantes. D (2020) “RELACIONES GRAVIMÉTRICAS Y VOLUMÉTRICAS DEL SUELO”. Universidad Nacional de Cajamarca. Cajamarca – Perú.
 
-### AGRADECIMIENTO
+### VIII. AGRADECIMIENTO
 
 
 <a href="https://www.linkedin.com/in/luis-maldonado-de-la-torre/?originalSubdomain=pe">
