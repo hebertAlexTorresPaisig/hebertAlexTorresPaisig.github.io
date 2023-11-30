@@ -99,8 +99,6 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
   <div style="display: inline-block;">
     <img src="CARA.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
     <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Hebert Torres | Update: 24/11/23 | AUTOCAD
-  </div>
-</div>
 
 
 ![HOYO](MUESTRAHOYO.png)
@@ -135,8 +133,7 @@ Interpretación gráfica, representando pesos y volúmenes mediante el programa 
   <div style="display: inline-block;">
     <img src="CARA.png" alt="Texto alternativo de la imagen" style="width: 18px; height: 17px; margin-right: 1px;">
     <span style="font-size: 10px; color: gray; position: relative; bottom: 5px;">Hebert Torres | Update: 24/11/23 | AUTOCAD
-  </div>
-</div>
+
 
 
 ![CILINDRO](MUESTRACILINDRO.png)
